@@ -16,7 +16,7 @@ Groups allow the user to combine multiple entities into one.
 Check **Developer Tools** -> **States** and browse the **Current entities:** listing for all available entities.
 
 ```yaml
-# Example configuration.yaml entry
+# Example configuration.yaml entry (note: omit "group:" if you are using this example in groups.yaml file)
 group:
   kitchen:
     name: Kitchen
